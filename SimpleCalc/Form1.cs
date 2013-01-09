@@ -32,6 +32,7 @@ namespace SimpleCalc
             //計算結果を出力
             AnswerTextBox.Text = valueAnswer.ToString();
                                 //文字列に変換後代入
+         
         }
         private int InputCheck(string textValue, out int value)
         {
