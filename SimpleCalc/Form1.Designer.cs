@@ -49,11 +49,11 @@
             // PlusLabel
             // 
             this.PlusLabel.AutoSize = true;
-            this.PlusLabel.Location = new System.Drawing.Point(120, 56);
+            this.PlusLabel.Location = new System.Drawing.Point(121, 52);
             this.PlusLabel.Name = "PlusLabel";
             this.PlusLabel.Size = new System.Drawing.Size(17, 12);
             this.PlusLabel.TabIndex = 1;
-            this.PlusLabel.Text = "＋";
+            this.PlusLabel.Text = "？";
             // 
             // Input2TextBox
             // 
